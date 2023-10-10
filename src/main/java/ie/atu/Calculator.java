@@ -11,6 +11,7 @@ public class Calculator {
     }
 
 
+
     private static void subtract() {
         System.out.println("Please your first number for subtraction :");
         Scanner inputs = new Scanner(System.in);
